@@ -1,0 +1,47 @@
+{
+    "title": "Big Ben's Form",
+    "schema": [
+        {
+            "component": {
+                "name": "input",
+                "label": "First Name",
+                "type": "text"
+            }
+        },
+        {
+            "component": {
+                "name" : "input",
+                "label": "Last Name",
+                "type:": "text"
+            }
+        },
+        {
+            "component": {
+                "name": "input",
+                "label": "Item",
+                "type": "text"
+            }
+        },
+        {
+            "component": {
+                "name": "input",
+                "label": "Quantity",
+                "type": "number"
+            }
+        },
+        {
+            "component": {
+                "name": "input",
+                "label": "Inlude Warranty?",
+                "type": "checkbox"
+            }
+        },
+        {
+            "component": {
+                "name": "input",
+                "label": "Submit",
+                "type": "button"
+            }
+        }
+    ]
+}
